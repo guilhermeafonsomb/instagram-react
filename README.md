@@ -13,10 +13,12 @@ I made this instagram to test my abilities in React. The main I made use use van
 5. Vite;
 6. Prettier;
 7. Eslint;
+8. Netlify
 
 ## Setup Installation
 
 1. Install dependecies with `npm i ` / `npm install ` in terminal;
 2. Run project type `npm run dev ` in terminal;
+3. Link to project `https://coloredbyte-instagram-react.netlify.app`
 
 ## Now enjoy the application
