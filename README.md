@@ -1,6 +1,6 @@
-﻿# project-colored-byte
+﻿# project-react-instagram
 
-> This is a simple instagram technical challenge
+> This is a simple instagram technical challenge for a company, I liked the project and decided to publish it on my profile.
 
 I made this instagram to test my abilities in React. The main I made use use vanilla Javascript and css, have one library - Swiper. And I decided use Prettier and Eslint to organize my code.
 
